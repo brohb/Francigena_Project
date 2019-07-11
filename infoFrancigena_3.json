@@ -1,0 +1,445 @@
+{
+  "tappe": [
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Groppoli",
+      "fs": "false"
+    },
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Groppodalosio",
+      "fs": "false"
+    },
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Casalina",
+      "fs": "false"
+    },
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Topelecca",
+      "fs": "false"
+    },
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Arzengio",
+      "fs": "false"
+    },
+    {
+      "name": "22 - Passo della Cisa - Pontremoli",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Pontremoli",
+      "fs": "true"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Pontremoli",
+      "fs": "true"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Filattiera",
+      "fs": "true"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Filetto",
+      "fs": "false"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Villafranca",
+      "fs": "true"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Virgoletta",
+      "fs": "false"
+    },
+    {
+      "name": "23 - Pontremoli - Aulla",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Aulla",
+      "fs": "true"
+    },
+    {
+      "name": "24 - Aulla - Avenza",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Aulla",
+      "fs": "true"
+    },
+    {
+      "name": "24 - Aulla - Avenza",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Sarzana",
+      "fs": "true"
+    },
+    {
+      "name": "24 - Aulla - Avenza",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Caniparola",
+      "fs": "false"
+    },
+    {
+      "name": "25 - Avenza - Pietrasanta",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Avenza",
+      "fs": "false"
+    },
+    {
+      "name": "25 - Avenza - Pietrasanta",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Massa",
+      "fs": "true"
+    },
+    {
+      "name": "25 - Avenza - Pietrasanta",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Pietrasanta",
+      "fs": "true"
+    },
+    {
+      "name": "26 - Pietrasanta - Lucca",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Pietrasanta",
+      "fs": "true"
+    },
+    {
+      "name": "26 - Pietrasanta - Lucca",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Camaiore",
+      "fs": "true"
+    },
+    {
+      "name": "26 - Pietrasanta - Lucca",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Badia",
+      "fs": "false"
+    },
+    {
+      "name": "26 - Pietrasanta - Lucca",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Montemagno",
+      "fs": "false"
+    },
+    {
+      "name": "26 - Pietrasanta - Lucca",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Lucca",
+      "fs": "true"
+    },
+    {
+      "name": "27 - Lucca - Altopascio",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Lucca",
+      "fs": "true"
+    },
+    {
+      "name": "27 - Lucca - Altopascio",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Capannori",
+      "fs": "false"
+    },
+    {
+      "name": "27 - Lucca - Altopascio",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Badia Pozzeveri",
+      "fs": "false"
+    },
+    {
+      "name": "27 - Lucca - Altopascio",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Altopascio",
+      "fs": "true"
+    },
+    {
+      "name": "28 - Altopascio - San Miniato",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Altopascio",
+      "fs": "true"
+    },
+    {
+      "name": "28 - Altopascio - San Miniato",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Ponte a Cappiano",
+      "fs": "false"
+    },
+    {
+      "name": "28 - Altopascio - San Miniato",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Fucecchio",
+      "fs": "false"
+    },
+    {
+      "name": "28 - Altopascio - San Miniato",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Miniato",
+      "fs": "true"
+    },
+    {
+      "name": "29 - San Miniato - Gambassi Terme",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Miniato",
+      "fs": "true"
+    },
+    {
+      "name": "29 - San Miniato - Gambassi Terme",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Coiano",
+      "fs": "false"
+    },
+    {
+      "name": "29 - San Miniato - Gambassi Terme",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Chianni",
+      "fs": "false"
+    },
+    {
+      "name": "29 - San Miniato - Gambassi Terme",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Gambassi Terme",
+      "fs": "false"
+    },
+    {
+      "name": "30 - Gambassi Terme - San Gimignano",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Gambassi Terme",
+      "fs": "false"
+    },
+    {
+      "name": "30 - Gambassi Terme - San Gimignano",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Pancole",
+      "fs": "false"
+    },
+    {
+      "name": "30 - Gambassi Terme - San Gimignano",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Cellole",
+      "fs": "false"
+    },
+    {
+      "name": "30 - Gambassi Terme - San Gimignano",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Gimignano",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Gimignano",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Aiano",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Gracciano",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Strove",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Abbadia a Isola",
+      "fs": "false"
+    },
+    {
+      "name": "31 - San Gimignano - Monteriggioni",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Monteriggioni",
+      "fs": "false"
+    },
+    {
+      "name": "32 - Monteriggioni - Siena",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Monteriggioni",
+      "fs": "false"
+    },
+    {
+      "name": "32 - Monteriggioni - Siena",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Cerbaia",
+      "fs": "false"
+    },
+    {
+      "name": "32 - Monteriggioni - Siena",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Siena",
+      "fs": "true"
+    },
+    {
+      "name": "33 - Siena - Ponte d’Arbia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Siena",
+      "fs": "true"
+    },
+    {
+      "name": "33 - Siena - Ponte d’Arbia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Ponte d’Arbia",
+      "fs": "false"
+    },
+    {
+      "name": "34 - Ponte d’Arbia - San Quirico d'Orcia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Ponte d’Arbia",
+      "fs": "false"
+    },
+    {
+      "name": "34 - Ponte d’Arbia - San Quirico d'Orcia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Buonconvento",
+      "fs": "true"
+    },
+    {
+      "name": "34 - Ponte d’Arbia - San Quirico d'Orcia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Torrenieri",
+      "fs": "false"
+    },
+    {
+      "name": "34 - Ponte d’Arbia - San Quirico d'Orcia",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Quirico d'Orcia",
+      "fs": "false"
+    },
+    {
+      "name": "35 - San Quirico - Radicofani",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "San Quirico",
+      "fs": "false"
+    },
+    {
+      "name": "35 - San Quirico - Radicofani",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Vignoni Alto",
+      "fs": "false"
+    },
+    {
+      "name": "35 - San Quirico - Radicofani",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Bagno Vignoni",
+      "fs": "false"
+    },
+    {
+      "name": "35 - San Quirico - Radicofani",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Gallina",
+      "fs": "false"
+    },
+    {
+      "name": "35 - San Quirico - Radicofani",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Radicofani",
+      "fs": "false"
+    },
+    {
+      "name": "36 - Radicofani - Aquapendente",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Radicofani",
+      "fs": "false"
+    },
+    {
+      "name": "36 - Radicofani - Aquapendente",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Ponte a Rigo",
+      "fs": "false"
+    },
+    {
+      "name": "36 - Radicofani - Aquapendente",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Proceno",
+      "fs": "false"
+    },
+    {
+      "name": "36 - Radicofani - Aquapendente",
+      "state": "Italy",
+      "region": "Tuscany",
+      "city": "Acquapendente",
+      "fs": "false"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="1_style.css">
+    <script language="javascript" type="text/javascript" src="jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+
+    <!-- add the following to enable the jquery-lang-js-->
+    <script src="jquery-lang.js" charset="utf-8" type="text/javascript"></script>
+    <script src="it.js"></script>
+    <script src="fr.js"></script>
+    <script src="es.js"></script>
+    <!--
+    <script src="js.cookie_copied-from_gitHub.js" charset="utf-8" type="text/javascript"></script>
+    <script src="traduzione_ITA.json" charset="utf-8" type="text/javascript"></script>
+    -->
+
+
+    <!-- add the following to enable the jquery-lang-js -->
+    <script type="text/javascript">
+        // Create language switcher instance
+        var lang = new Lang();
+
+        //lang.dynamic('th', 'qua metto il percorso del mio file JSON con la traduzione');
+
+        //lang.dynamic('it', 'traduzione_ITA.json');
+
+        lang.init({
+            defaultLang: 'en',
+
+            currentLang: 'en',
+
+            /*
+            cookie: {
+                name: 'langCookie',
+                expiry: 365,
+                path:'/'
+            }
+
+             */
+        });
+    </script>
+
+
+    <!--to add the fontawesome icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" rel="stylesheet"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+    <title>Bootstrap: In Line form di vs Tabs</title>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Bootstrap JUMBOTRON per lo stile -->
+    <div class="jumbotron">
+
+        <div class="form-inline">
+
+            <a href="" class="link-home" id="buttonTitle"><h1 id="TitleH1" class="display-4"> Discover the Amazing
+                Route </h1></a>
+
+            <!-- bootstrap button to translate -->
+            <!-- Example single danger button -->
+            <div class="btn-group float-right">
+                <button id="translate" type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                    <i class="fas fa-language"></i>
+                </button>
+                <div class="dropdown-menu">
+                    <a id="itButton" class="dropdown-item" href="#lang-en"
+                       onclick="window.lang.change('it');return false;">It</a>
+                    <a id="frButton" class="dropdown-item" href="#lang-en"
+                       onclick="window.lang.change('fr');return false;">Fr</a>
+                    <a id="enButton" class="dropdown-item" href="#lang-en"
+                       onclick="window.lang.change('en');return false;">En</a>
+                    <a id="esButton" class="dropdown-item" href="#lang-en"
+                       onclick="window.lang.change('es');return false;">Es</a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- <p class="lead">Elimina questo testo </p> -->
+        <hr class="my-4">
+        <!-- creo nuovo <div> per le bootstrap TABS-->
+        <!-- Tabs -->
+
+        <ul class="form-inline nav nav-tabs" id="myTab" role="tablist">
+
+            <li class="nav-item">
+                <a lang="en" class="nav-link active" id="citta-tab" data-toggle="tab" href="#citta" role="tab"
+                   aria-controls="citta"
+                   aria-selected="true">CITY</a>
+            </li>
+
+            <li class="nav-item">
+                <a lang="en" class="nav-link" id="regione-tab" data-toggle="tab" href="#region" role="tab"
+                   aria-controls="region" aria-selected="false">REGION</a>
+            </li>
+
+            <li class="nav-item">
+                <a lang="en" class="nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab"
+                   aria-controls="about" aria-selected="false">ABOUT</a>
+            </li>
+
+
+        </ul>
+
+        <div class="tab-content" id="myTabContent">
+
+
+            <div class="tab-pane show active" id="citta" role="tabpanel" aria-labelledby="citta-tab">
+                <!-- al posto dei ... metto l'in line form (con pulsante) in tutti e tre le tab -->
+
+                <!-- in line form 1 -->
+                <form class="form-inline">
+
+                    <div id="ricercaCitta" class="form-row align-items-center">
+                        <div class="col-auto">
+                            <label class="sr-only" for="inlineFormInputCitta">Città</label>
+                            <input lang="en" type="text" class="form-control mb-2" id="inlineFormInputCitta"
+                                   placeholder="Search by city">
+                        </div>
+
+
+                        <!-- error log  -->
+                        <p lang="en" id="errorLog" class="lead text-danger hide">There are incomplete required fields.
+                            Please complete them.</p>
+
+                    </div>
+                    <!-- pulsante per ricerca città-->
+                    <div class="col-auto">
+
+                        <button lang="en" id="cercaCitta" type="button" class="btn btn-primary mb-2">SEARCH</button>
+                    </div>
+
+                </form>
+            </div>
+
+
+            <div class="tab-pane" id="region" role="tabpanel" aria-labelledby="region-tab">
+                <!-- al posto dei ... metto l'l line form 3 -->
+
+                <!-- in line form 3 -->
+                <form class="form-inline">
+                    <div id="ricercaRegione" class="form-row align-items-center">
+                        <div class="col-auto">
+                            <label class="sr-only" id="inlineFormInput">Regione</label>
+                            <input lang="en" type="text" class="form-control mb-2" id="inlineFormInputRegione"
+                                   placeholder="Search by Region">
+                        </div>
+
+
+                        <!-- error log (Tab Regione)  -->
+                        <p id="errorLogRegione" class="lead text-danger hide">There are incomplete required fields.
+                            Please complete them.</p>
+
+
+                    </div>
+                    <!-- pulsante cerca regione-->
+                    <div class="col-auto">
+                        <button lang="en" id="cercaRegione" type="button" class="btn btn-primary mb-2">SEARCH</button>
+                    </div>
+                </form>  <!-- fine in-line form 3-->
+
+            </div>
+
+
+            <div lang="en" class="tab-pane" id="about" role="tabpanel" aria-labelledby="about-tab">
+                <!-- al posto dei ... metto l'l line form 3 -->
+
+                <!-- in line form 3 -->
+                <form>
+                    <div id="about_tab" class="form-row align-items-center">
+                        <div class="col-auto">
+                            <label class="sr-only" for="inlineFormInput">About</label>
+
+                            <div>
+                                <h3 lang="en" data-lang-token="title">The Via Francigena</h3>
+                                <p data-lang-token="history" lang="en" id="historyOfFrancigena"> It was the year 990
+                                    a.C., when, during his travel back to
+                                    Rome, the Archbishop Sigeric noted the 79 "subamansiones de Roma usque ad mare",
+                                    that is to say the stages
+                                    that divided his solemn stride towards the native Canterbury. This ancient Via that
+                                    connects Canterbury to Rome and to the harbours of Puglia
+                                    was re-discovered by contemporary wayfarers that walk along a wanderful and
+                                    surprising path. From 2001 the European Association of the Vie Francigene
+                                    supports the development and the promotion of an itinerary, that, crossing Europe,
+                                    retraces the history of an important part of ou continent.
+                                    A thousand years of history through England, France, Switzerland and Italy can be
+                                    found at the core of the European project.
+                                    A "Via of cultures", as it was defined by Jacques Le Goff, along which we build the
+                                    Europe of people.</p>
+                            </div>
+
+
+                        </div>
+                        <div class="col-auto">
+                            <button id="moreInfo" type="button" class="btn btn-primary mb-2">INFO</button>
+                        </div>
+
+
+                        <!-- error log (Tab Regione)  -->
+                        <p lang="en" id="errorLogRegione" class="lead text-danger hide">There are incomplete required
+                            fields. Please complete them.</p>
+
+
+                    </div>
+                </form>  <!-- fine in-line form 3-->
+
+            </div>
+
+
+        </div> <!-- fine Bootstrap Tabs -->
+
+
+    </div> <!-- FINE JUMBOTRON-->
+
+    <!-- modal Bootstrap -->
+    <div class="modal" tabindex="-1" role="dialog" id="myModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 lang="en" class="modal-title">No results found!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div lang="en" id="testoMyModal" class="modal-body"> Please start a new search
+                </div>
+                <div class="modal-footer">
+                    <button lang="en" type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Alert Bootstrap -->
+    <!--
+     <div id="alertNessunRisultato" class="alert alert-danger hide " role="alert">
+      Nessun risultato trovato!
+    </div>
+
+     fine alert Bootstrap
+     -->
+
+    <!-- Bootstrap Table -->
+
+    <div id="tabellaEconteuti">
+
+        <table id="tabella" class="table" style="display: none">
+            <thead class="theadAll">
+            <tr>
+                <th lang="en" id="theadName" scope="col">Name</th>
+                <th lang="en" id="theadState" scope="col">State</th>
+                <th lang="en" id="theadRegion" scope="col">Region</th>
+                <th lang="en" id="theadCity" scope="col">City</th>
+                <th></th>
+            </tr>
+            </thead>
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+
+        <!--
+        <div id="logoEtesto">
+
+            <img id='fs' src='images/Logo_Ferrovie_dello_Stato_Italiane_1.png'/>
+            <p id="TrenitaliaService">Train service available. Pilgrims that travel with the EAVF Credential may benefit
+                from favourable rates (10% decrease) on the price of regional train tickets.</p>
+
+        </div>
+        -->
+
+        <button lang="en" id="hotel" type="button" class="btn btn-primary" style="display: none">Housing</button>
+
+        <button lang="en" id="ristoranti" type="button" class="btn btn-primary" style="display: none">Restaurants
+        </button>
+
+        <button lang="en" id="mappe" type="button" class="btn btn-primary" style="display: none">Maps</button>
+
+
+        <!-- tabella 2 per visualizzare hotel e ristoranti-->
+        <table id="tabella2" class="table" style="display: none">
+            <thead id="thead2">
+            <tr>
+                <th lang="en" scope="col">Name</th>
+                <th lang="en" scope="col">Address</th>
+                <th lang="en" scope="col">Phone</th>
+            </tr>
+            </thead>
+            <tbody id="tbody2">
+
+            </tbody>
+        </table>
+
+
+        <!-- using Leaflet library for free, step 1: create a </div> -->
+        <div id="leaflet" style="width: 100%; height: 400px; border: 1px solid red; display: none"></div>
+
+    </div>
+
+    <!--  <table id="tabella" class="table hide">
+       <thead>
+       <tr>
+           <th scope="col">Tappa</th>
+       </tr>
+       </thead>
+       <tbody id="tbody">
+       </tbody>
+   </table> -->
+
+    <!-- fine Bootstrap Table -->
+
+</div>
+
+</body>
+</html>
+

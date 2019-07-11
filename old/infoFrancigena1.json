@@ -1,0 +1,61 @@
+{
+  "stati": [
+    "Francia",
+    "Inghilterra",
+    {
+      "Italia": [
+        "Emilia",
+        "Lazio",
+        "Lombardia",
+        "Piemonte",
+        {
+          "Toscana": [
+            {
+            [
+              {
+                "Passo della Cisa - Pontremoli": "numeroTappa"
+                :
+                "22",
+                "difficoltà": "Molto impegnativa",
+                "km": "19.57",
+                "ore": "5",
+                "ciclabilità": "65%",
+              {
+                ,
+              "città"
+              :
+              [
+                "Groppoli(Mulazzo)",
+                "Groppodalosio",
+                "Casalina",
+                "Topelecca",
+                "Arzengio",
+                "Pontremoli"
+              ]
+              }
+            ]
+          },
+            "Pontremoli - Aulla",
+            "Aulla - Avenza",
+            "Avenza - Pietrasanta",
+            "Pietrasanta - Lucca",
+            "Lucca - Altopascio",
+            "Altopascio - San Miniato",
+            "San Miniato - Gambassi Terme",
+            "Gambassi Terme - San Gimignano",
+            "San Gimignano - Monteriggioni",
+            "Monteriggioni - Siena",
+            "Siena - Ponte d’Arbia",
+            "Ponte d’Arbia - San Quirico d'Orcia",
+            "San Quirico - Radicofani",
+            "Radicofani - Aquapendente"
+          ]
+        }
+      ]
+    },
+    "Valle d'Aosta"
+  ]
+},
+"Svizzera"
+]
+}

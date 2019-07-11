@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^(.*)$ http://m.paginebianche.it/mwrapper/$1 [P,L]
+
+# pagine_bianche/searchpb?client=pbbrowsing&version=4.0&device=evo&pagesize=25&output=json&lang=it&typedwhat=ristorante&what=ristorante&where=Italia

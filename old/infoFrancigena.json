@@ -1,0 +1,253 @@
+{
+          "ore": "8",
+          "Francia": [],
+          "Inghilterra",
+          "Italia": [
+            {
+              "regione": "Emilia",
+              "stato": "Italia",
+              "tappe": ""
+            },
+            {
+              "regione": "Lazio",
+              "stato": "Italia",
+              "tappe": []
+            },
+            {
+              "regione": "Lombardia",
+              "stato": "Italia",
+              "tappe": []
+            },
+            {
+              "regione": "Piemonte",
+              "stato": "Italia",
+              "tappe": ""
+            },
+            {
+              "regione": "Toscana",
+              "stato": "Italia",
+              "tappe": [
+                {
+                  "nome": "Passo della Cisa - Pontremoli",
+                  "numeroTappa": "22",
+                  "difficoltà": "Molto impegnativa",
+                  "km": "19.57",
+                  "ore": "5",
+                  "ciclabilità": "65%",
+                  "città": [
+                    "Groppoli(Mulazzo)",
+                    "Groppodalosio",
+                    "Casalina",
+                    "Topelecca",
+                    "Arzengio",
+                    "Pontremoli"
+                  ]
+                },
+                {
+                  "nome": "Pontremoli - Aulla",
+                  "numeroTappa": "23",
+                  "difficoltà": "mediamente difficile",
+                  "km": "32,12",
+                  "ore": "8",
+                  "ciclabilità": "94%",
+                  "città": [
+                    "Pontremoli",
+                    "Ponticello",
+                    "Filattiera",
+                    "Filetto",
+                    "Villafranca",
+                    "Virgoletta",
+                    "Aulla"
+                  ]
+                },
+                {
+                  "nome": "Aulla - Avenza",
+                  "numeroTappa": "24",
+                  "difficoltà": "impegnativa (prima parte)",
+                  "km": "33",
+          "ciclabilità": "",
+          "città": [
+            "Aulla",
+            "Sarzana",
+            "Caniparola(Fosdinovo)"
+          ]
+        },
+        {
+          "nome": "Avenza - Pietrasanta",
+          "numeroTappa": "25",
+          "difficoltà": "mediamente difficile",
+          "km": "28",
+          "ore": "6.30",
+          "ciclabilità": "",
+          "città": [
+            "Avenza",
+            "Massa",
+            "Pietrasanta"
+          ]
+        },
+        {
+          "nome": "Pietrasanta - Lucca",
+          "numeroTappa": "26",
+          "difficoltà": "mediamente difficile",
+          "km": "32",
+          "ore": "7.5",
+          "ciclabilità": "",
+          "città": [
+            "Pietrasanta",
+            "Camaiore",
+            "Badia(Altopascio)",
+            "Montemagno(Calci)",
+            "Lucca"
+          ]
+        },
+        {
+          "nome": "Lucca - Altopascio",
+          "numeroTappa": "27",
+          "difficoltà": "mediamente difficile",
+          "km": "18.5",
+          "ore": "4,30",
+          "ciclabilità": "100%",
+          "città": [
+            "Lucca",
+            "Capannori",
+            "Badia Pozzeveri",
+            "Altopascio"
+          ]
+        },
+        {
+          "nome": "Altopascio - San Miniato",
+          "numeroTappa": "28",
+          "difficoltà": "mediamente difficile",
+          "km": "27",
+          "ore": "6,30",
+          "ciclabilità": "100%",
+          "città": [
+            "Altopascio",
+            "Ponte a Cappiano (Fucecchio)",
+            "Fucecchio",
+            "San Miniato"
+          ]
+        },
+        {
+          "nome": "San Miniato - Gambassi Terme",
+          "numeroTappa": "29",
+          "difficoltà": "mediamente difficile",
+          "km": "24",
+          "ore": "6",
+          "ciclabilità": "99%",
+          "città": [
+            "San Miniato",
+            "Coiano(Castelfiorentino)",
+            "Chianni(Gambassi Terme)",
+            "Gambassi Terme"
+          ]
+        },
+        {
+          "nome": "Gambassi Terme - San Gimignano ",
+          "numeroTappa": "30",
+          "difficoltà": "mediamente difficile",
+          "km": "13.4",
+          "ore": "3.30",
+          "ciclabilità": "97%",
+          "città": [
+            "Gambassi Terme",
+            "Pancole(San Gimignano)",
+            "Cellole (San Gimignano)",
+            "San Gimignano"
+          ]
+        },
+        {
+          "nome": "San Gimignano - Monteriggioni",
+          "numeroTappa": "31",
+          "difficoltà": "mediamente difficile",
+          "km": "31",
+          "ore": "8",
+          "ciclabilità": "96%",
+          "città": [
+            "San Gimignano",
+            "Aiano (San Gimignano)",
+            "Gracciano (Colle Val d'Elsa",
+            "Strove(Monteriggioni)",
+            "Abbadia a Isola(Monteriggioni)",
+            "Monteriggioni"
+          ]
+        },
+        {
+          "nome": "Monteriggioni - Siena",
+          "numeroTappa": "32",
+          "difficoltà": "mediamente difficile",
+          "km": "20.6",
+          "ore": "5",
+          "ciclabilità": "95%",
+          "città": [
+            "Monteriggioni",
+            "Cerbaia (San Casciano in Val di Pesa",
+            "Siena"
+          ]
+        },
+        {
+          "nome": "Siena - Ponte d’Arbia",
+          "numeroTappa": "33",
+          "difficoltà": "mediamente difficile",
+          "km": "28.4",
+          "ore": "7",
+          "ciclabilità": "100%",
+          "città": [
+            "Siena",
+            "Ponte d’Arbia"
+          ]
+        },
+        {
+          "nome": "Ponte d’Arbia - San Quirico d'Orcia",
+          "numeroTappa": "34",
+          "difficoltà": "mediamente difficile",
+          "km": "26",
+          "ore": "7",
+          "ciclabilità": "100%",
+          "città": [
+            "Ponte d’Arbia",
+            "Buonconvento",
+            "Torrenieri",
+            "San Quirico d'Orcia"
+          ]
+        },
+        {
+          "nome": "San Quirico - Radicofani",
+          "numeroTappa": "35",
+          "difficoltà": "mediamente difficile",
+          "km": "32,2",
+          "ore": "9",
+          "ciclabilità": "99%",
+          "città": [
+            "San Quirico",
+            "Vignoni Alto",
+            "Bagno Vignoni",
+            "Gallina",
+            "Radicofani"
+          ],
+          "deviazioni": "Castiglione"
+        },
+        {
+          "nome": "Radicofani - Aquapendente",
+          "numeroTappa": "36",
+          "difficoltà": "mediamente difficile",
+          "km": "32",
+          "ore": "8",
+          "ciclabilità": "100%",
+          "città": [
+            "Radicofani",
+            "Ponte a Rigo (San Casciano)",
+            "Proceno",
+            "Acquapendente (Lazio)"
+          ]
+        }
+      ]
+    },
+    {
+      "regione": "Valle d’Aosta",
+      "stato": "Italia",
+      "tappe": ""
+    }
+  ],
+  "Svizzera": []
+}

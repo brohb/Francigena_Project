@@ -1,0 +1,272 @@
+
+.tab-pane {
+    padding: 20px;
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-top: 0;
+    border-bottom: 1px solid #dee2e6;
+    background-color: #ffffff;
+}
+
+#errorLog4444 {
+    display: none;
+    color: red;
+    margin: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+body {
+    margin: 0;
+    background-image: url("images/5_resized_blur.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Aguafina Script;
+    font-size: 48px !important;
+    cursor: pointer;
+    margin-right: 585px;
+}
+
+td {
+    color: white;
+}
+
+html, body {
+    height: 100%;
+}
+
+#theadName, #theadState, #theadRegion, #theadCity, #thead2 {
+    color: white;
+}
+
+div.jumbotron {
+    background-color: rgba(0, 0, 0, 0.3)
+}
+
+/* aggiungo il padding agli Error Log */
+p.lead.text-danger {
+    padding-left: 20px;
+}
+
+/* I may creATE a CSS rule and then "append" it to an element by using $, see lesson 154 (Angela Yu) */
+
+
+#tabella, #tabella2 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+p {
+    line-height: 2.4em;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 24px;
+    color: white;
+}
+
+
+h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 12px;
+    padding-bottom: 24px;
+    color: white;
+}
+
+
+/* titolo  */
+a.link-home {
+    text-decoration: none;
+    color: white;
+}
+
+a.link-home:hover {
+    color: lightgray;
+}
+
+
+.tab-pane {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+
+.btn {
+    border-color: #3DA432;
+    background-color: #3DA432;
+    line-height: 3.1;
+!important;
+}
+
+
+.hotel:focus, .ristoranti:focus, .mappe:focus {
+    background-color: #053700;
+    border-color: #053700;
+}
+
+
+.btn:hover {
+    background-color: #053700;
+    border-color: #053700;
+}
+
+
+.btn:active {
+    background-color: #053700;
+    border-color: #053700;
+}
+
+
+ .nav-tabs .nav-link.active {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    font-weight: bold;
+}
+
+
+a {
+    color: white;
+}
+
+
+.nav-link {
+
+    padding: 1rem 2rem;
+!important;
+    padding-bottom: 2rem;
+}
+
+
+.nav-tabs .nav-link {
+    edebackground-color: transparent;
+    border: transparent;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
+}
+
+
+.nav-tabs:hover .nav-link:hover {
+    font-weight: bold;
+}
+
+
+.form-control {
+
+    width: 200%;
+    height: calc(3em + .75rem + 2px);
+    font-family: sans-serif;
+
+}
+
+
+/*
+.btn {
+
+    line-height: 3.1;!important;
+}
+
+ */
+
+
+#translate {
+    background-color: #d63040;
+    sposition: relative;
+    cposition: absolute;
+    cleft: 100px;
+    cright: -100;
+    ytop: auto;
+    gmargin-left:F590px
+}
+
+/*
+.dropdown-item:active{
+    background-color: black;
+    color: deeppink;
+}
+
+ */
+
+
+/*
+F#itButton.visited {
+    background-color: black;
+    color: deeppink;
+}
+
+ */
+
+/*
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+ */
+
+#fs {
+    width: 30px;
+    gbackground-color: glightgray;
+    background-color: transparent;
+}
+
+
+/*
+#TrenitaliaService{
+    display: none;
+}
+ */
+
+/*
+.testoInfoTreni {
+    display: none;
+}
+
+ */
+
+#TrenitaliaButton {
+    background-color: transparent;
+    border-color: transparent;
+    line-height: 0px;
+    padding: 0px;
+}
+
+.table td {
+    border-top: none;
+    border-bottom: none;
+}
+
+.table thead th {
+    border-top: none;
+}
+
+#lowCost{
+    background-color: green;
+}
+
+.dropdown-item:current {
+    color:deeppink !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

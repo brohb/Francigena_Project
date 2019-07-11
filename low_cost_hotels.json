@@ -1,0 +1,643 @@
+{
+  "LOW_COST_Pilgrim_accomodation": [
+    {
+      "name": "Taberna Potami",
+      "city": "TOPLECCA DI SOPRA",
+      "address": "Loc. Toplecca di Sopra, 1",
+      "phone": "+39 3427064227 - 344 2716668 ",
+      "e-mail": "alessandro.bocchi@mac.com ",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello Castello del Piagnaro",
+      "city": "PONTREMOLI",
+      "address": "Porta di Parma ",
+      "phone": "+39 01874601211 - +39 0187831439",
+      "e-mail": "istruzione@comune.pontremoli.ms.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ospizio San Lorenzo Martire",
+      "city": "PONTREMOLI",
+      "address": "c/o Ex convento Cappuccini, Via Cappuccini, 2",
+      "phone": "0187 830395 – 339 1956770",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ospizio San Lorenzo Martire",
+      "city": "PONTREMOLI",
+      "address": "c/o Ex convento Cappuccini, Via ai Cappuccini, 2",
+      "phone": "+39 0187830395 - +39 3391956770",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Seminario di Pontremoli",
+      "city": "PONTREMOLI",
+      "address": "- P.za S. Francesco, 10",
+      "phone": "+39 333-3321782",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello del Pellegrino",
+      "city": "LUSIGNANA",
+      "address": "Lusignana",
+      "phone": "",
+      "e-mail": "paola.gares@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello di San Caprasio",
+      "city": "AULLA",
+      "address": "Piazza Abbazia",
+      "phone": "+39 0187420148 - +39 3396380331",
+      "e-mail": "perignon@alice.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ospitalità Sant’Antonio",
+      "city": "CANIPAROLA",
+      "address": "Via Borghetto ang. Viale Malaspina",
+      "phone": "+39 3396380331 - +39 0187673530",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Parrocchia San Pietro Apostolo",
+      "city": "AVENZA",
+      "address": "Piazza Finelli, 11",
+      "phone": "+39 0585857203, +39 3388333413",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "B&B New Life",
+      "city": "AVENZA",
+      "address": "Via Provinciale Avenza-Sarzana, 48",
+      "phone": "+39 3737482862",
+      "e-mail": "newlifecarrara@gmail.com\n",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "B&B Il Glicine ",
+      "city": "AVENZA",
+      "address": "Provinciale AvenzaSarzana 58T",
+      "phone": "+ 39 333 9766676 ",
+      "e-mail": "wannaw@tin.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello Antonio Mazzi",
+      "city": "AVENZA",
+      "address": "C/o Parrocchia San Pietro Apostolo, Piazza Finelli, 11",
+      "phone": "0585 857203 - 338 8333413",
+      "e-mail": "navalesi@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello Palazzo Nizza",
+      "city": "MASSA",
+      "address": "Piazza Mercurio, 12/14",
+      "phone": "+39 05851886345",
+      "e-mail": "ostellopalazzonizza@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Casa Diocesana La Rocca",
+      "city": "PIETRASANTA",
+      "address": "Via della Rocca, 10",
+      "phone": "+39 0584793094",
+      "e-mail": "casarocca@tiscali.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "La Selvaiana",
+      "city": "PIANORE",
+      "address": "Loc. La Stretta",
+      "phone": "+39 3894308212",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Ostello del Pellegrino",
+      "city": "CAMAIORE",
+      "address": "Via Madonna della Pietà, 1",
+      "phone": "+39 3451168661",
+      "e-mail": "info@ostellodicamaiore.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Oratorio Il Colosseo",
+      "city": "CAMAIORE",
+      "address": "Via Tabarrani, 26",
+      "phone": "+39 3358025290, +39 3391832857",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Casa del Pellegrino",
+      "city": "VALPROMARO",
+      "address": "Loc. Valpromaro, Via Comunale 15",
+      "phone": "+39 0584956028, +39 3276948204",
+      "e-mail": "valpromaro@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    },
+    {
+      "name": "Canonici Regolari Lateranensi",
+      "city": "Lucca",
+      "address": "Via San Nicolao nr. 76",
+      "phone": "+39 3311311522",
+      "e-mail": "francigenalucca2017@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Misericordia",
+      "city": "Lucca",
+      "address": "Via C. Battisti, 2",
+      "phone": "+39 0583409546",
+      "e-mail": "info@misericordialucca.org",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Pellegrinaio San Davino",
+      "city": "Lucca",
+      "address": "Via San Leonardo, 12",
+      "phone": "0583 53576 – 366 1062641",
+      "e-mail": "sandavino@luccatranoi.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello di San Frediano",
+      "city": "Lucca",
+      "address": "Via della Cavallerizza, 12",
+      "phone": " ",
+      "e-mail": "sandavino@luccatranoi.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "B&B Manon",
+      "city": "Lucca",
+      "address": "Piazza Cittadella, 10",
+      "phone": "349 559 3027",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello la Salana",
+      "city": "Capannori",
+      "address": "Via del Popolo 182",
+      "phone": "+39 3286767842 +39 339 7237912 - +39 0583 414292",
+      "e-mail": "info@ostellolasalana.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Magione Cavalieri del Tau",
+      "city": "ALTOPASCIO",
+      "address": "Comune o biblioteca Altopascio, P.za Ospitalieri 6",
+      "phone": "+39 0583216280, +39 3665708802",
+      "e-mail": "turismo@comune.altopascio.lu.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Il Melograno",
+      "city": "CHIMENTI",
+      "address": "Via Romana,170",
+      "phone": "+39 3459602805 - +39 3666622734",
+      "e-mail": "verde2806@libero.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "La Bigattiera",
+      "city": "GALLENO",
+      "address": "Via della Bigattiera, 4",
+      "phone": "+39 338.3906736",
+      "e-mail": "eb1960@libero.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Casa del Pellegrino",
+      "city": "GALLENO",
+      "address": "Parrccchia San Pietro Apostolo, Via della Chiesa, 22",
+      "phone": "0571 299931 – 366 9997072",
+      "e-mail": "sanpietrogalleno@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello il Ponte dei Medici",
+      "city": "FUCECCHIO",
+      "address": "Loc. Ponte a Cappiano - Via Colombo, 237",
+      "phone": "+39 0571297831",
+      "e-mail": "ostellopontedeimedici@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Affittacamere Il Poggio",
+      "city": "FUCECCHIO",
+      "address": "Viale Bruno Buozzi, 14",
+      "phone": "346 6964368",
+      "e-mail": "affittacamereilpoggio@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "L'Hospitale del Pellegrino",
+      "city": "SAN MINIATO",
+      "address": "Via Gargozzi, 34",
+      "phone": "+39 3934995126",
+      "e-mail": "lhospitaledelpellegrino@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello di San Miniato",
+      "city": "SAN MINIATO",
+      "address": "Via Vittime del Duomo, 4",
+      "phone": "+39 3387997004",
+      "e-mail": "ostellosanminiato@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Affittacamere San Miniato",
+      "city": "SAN MINIATO",
+      "address": "Via Giosuè Carducci, 2",
+      "phone": "+39 3533890839",
+      "e-mail": "affittacameresanminiato@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Misericordia",
+      "city": "SAN MINIATO BASSO",
+      "address": "Piazza Vincenzo Cuoco, 9",
+      "phone": "+39 0571419455, +39 3398723682",
+      "e-mail": "mario.giugni@libero.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello Comunale",
+      "city": "SAN MINIATO ALTO",
+      "address": "Piazza Mazzini",
+      "phone": "0571 400328 – 338 7997004",
+      "e-mail": "ostellosanminiato@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Convento San Francesco",
+      "city": "SAN MINIATO BASSO",
+      "address": "Piazza San Francesco, 1",
+      "phone": " 0571 43051",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello Sigerico",
+      "city": "GAMBASSI TERME",
+      "address": "Pieve Santa Maria in Chianni",
+      "phone": "+39 3247968837, +39 0571639044",
+      "e-mail": "ostello.sigerico@yahoo.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "La Sosta di Roberto",
+      "city": "GAMBASSI TERME",
+      "address": "Loc. Borgoforte, Via Santa Maria Chianni, 10 A",
+      "phone": "+39 3801280722",
+      "e-mail": "lasostadiroberto@hotmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Convento S.Agostino",
+      "city": "SAN GIMIGNANO",
+      "address": "Piazza S. Agostino, 10",
+      "phone": "+39 0577907012",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Villaggio del Pellegrino (Camping Boschetto di Piemma)",
+      "city": "SAN GIMIGNANO",
+      "address": "Via S. Lucia, 38/C",
+      "phone": "+39 0577907134",
+      "e-mail": "info@villaggiodelpellegrino.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Convento di San Francesco",
+      "city": "COLLE VAL D’ELSA",
+      "address": "Via San Francesco, 4",
+      "phone": "+39 0577920040, +39 3276799124",
+      "e-mail": "tabor@arcidiocesi.siena.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Parrocchia di San Marziale",
+      "city": "GRACCIANO",
+      "address": "Loc. San Marziale n° 1",
+      "phone": "+39 3297465518",
+      "e-mail": "feaesi@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ospitale S.Cirino e Giacomo",
+      "city": "ABBADIA ISOLA",
+      "address": "Abbadia Isola 4",
+      "phone": "+39 340 3881288",
+      "e-mail": "casaferiesma@yahoo.it - dondoriano@interfree.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": " Ostello Contessa Ava dei Lambardi",
+      "city": "ABBADIA ISOLA",
+      "address": "Piazza Garfonda, 4",
+      "phone": "+39 0577300000",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Castello Casa per ferie Maria Assunta",
+      "city": "MONTERIGGIONI",
+      "address": "P.za Roma, 23",
+      "phone": "+39 0577304214, +39 327 0655678",
+      "e-mail": "casaferiesma@yahoo.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Accoglienza Santa Luisa",
+      "city": "SIENA",
+      "address": "Via San Girolamo, 8",
+      "phone": "+39 0577284377",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "A Camping Siena Colleverde",
+      "city": "SIENA",
+      "address": "Strada di Scacciapensieri, 47",
+      "phone": "+39 0577334080",
+      "e-mail": "info@sienacamping.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "A Casa delle Balie",
+      "city": "SIENA",
+      "address": "Ostello Santa Maria della Scala - Vicolo di San Girolamo, 2",
+      "phone": "+39 3476137678",
+      "e-mail": "ostellosms@operalaboratori.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Paradiso n.4",
+      "city": "SIENA",
+      "address": "Via del Paradiso, 4",
+      "phone": "+39 0577271348",
+      "e-mail": "info@paradiso4.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Foresteria San Clemente ai Servi",
+      "city": "SIENA",
+      "address": "Piazza Manzoni 5",
+      "phone": "+39 0577222633",
+      "e-mail": "weabis1233@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Parrocchia SS Pietro e Paolo",
+      "city": "BUONCONVENTO",
+      "address": "Via del Sole,13",
+      "phone": "+39 0577806089, +39 3489153745, +39 3391542823",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello da Elodia",
+      "city": "TORRENIERI",
+      "address": "Via G. Pascoli, 13",
+      "phone": "+39 3476787711",
+      "e-mail": "giulia.pierangioli@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ostello Parrocchia Collegiata",
+      "city": "SAN QUIRICO D'ORCIA",
+      "address": "P.za Chigi ,1/18",
+      "phone": "+39 0577897236, 0577897278, +39 3477748732",
+      "e-mail": "casaferie@parrsanquiricodorcia.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Il Palazzo del Pellegrino",
+      "city": "SAN QUIRICO D'ORCIA",
+      "address": "Via Dante Alighieri, 33",
+      "phone": "+39 0577898303",
+      "e-mail": "info@parcodellavaldorcia.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Abbazia del S.S.mo Salvatore",
+      "city": "ABBADIA S. SALVATORE",
+      "address": "Via del Monastero 50",
+      "phone": "+39 0577777 352",
+      "e-mail": "dongiampaolo@virgilio.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Parrocchia di S. Croce",
+      "city": "ABBADIA S. SALVATORE",
+      "address": "Via Mentana 31 ",
+      "phone": "+39 0577778225, +39 3291352014",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Lucca-Radicofani"
+    },
+    {
+      "name": "Ospitale Santi Pietro e Giacomo",
+      "city": "RADICOFANI",
+      "address": "V.dello Spedale,2",
+      "phone": "+39 3387982255, +39 331.5321867",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Radicofani-Roma"
+    },
+    {
+      "name": "Rifugio Comunale 'A.Gestri'",
+      "city": "RADICOFANI",
+      "address": "Piazza A. Garibaldi, 2",
+      "phone": "+39 3315291556",
+      "e-mail": "infostelloradicofani@libero.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Radicofani-Roma"
+    },
+    {
+      "name": "La casa del pellegrino",
+      "city": "PONTE A RIGO",
+      "address": "Ponte a Rigo",
+      "phone": "+39 057850004, +39 3343546142",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Radicofani-Roma"
+    },
+    {
+      "name": "Parrocchia. San Francesco Assisi",
+      "city": "SARZANA",
+      "address": "Via Paci, 8",
+      "phone": "0187 620356  - 327 4403636",
+      "e-mail": "cdasarzana@caritasdiocesana.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Aulla-Avenza"
+    },
+    {
+      "name": "Albergo La Villetta",
+      "city": "SARZANA",
+      "address": "Via Sobborgo Emiliano, 24",
+      "phone": "0187 620195",
+      "e-mail": "info@albergolavilletta.it",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Aulla-Avenza"
+    },
+    {
+      "name": "Parrocchia del Carmine",
+      "city": "SARZANA",
+      "address": "Via Paganino, 80",
+      "phone": "+39 0187620260 - +39 3487294423",
+      "e-mail": "",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Aulla-Avenza"
+    },
+    {
+      "name": "La Selvaiana",
+      "city": "PIANORE",
+      "address": "Loc. La Stretta",
+      "phone": "389 4308212",
+      "e-mail": "biomela81@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Aulla-Avenza"
+    },
+    {
+      "name": "Casa del Pellegrino",
+      "city": "VALPROMARO",
+      "address": "Via Comunale, 15",
+      "phone": "0584 956028 - 327 6948204",
+      "e-mail": "valpromaro@gmail.com",
+      "region": "Tuscany",
+      "type": "Low Cost Pilgrim Accomodation",
+      "tappa": "Pavia-Lucca"
+    }
+  ]
+}

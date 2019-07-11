@@ -1,0 +1,143 @@
+{
+  "Stati": [
+    "Francia",
+    "Inghilterra",
+    "Svizzera",
+    {
+      "Italia": [
+        "Emilia",
+        "Lazio",
+        "Lombardia",
+        "Piemonte",
+        {
+          "Toscana": [
+            {
+              "Tappa22 - Passo della Cisa - Pontremoli": [
+                "Groppoli(Mulazzo)",
+                "Groppodalosio",
+                "Casalina",
+                "Topelecca",
+                "Arzengio",
+                "Pontremoli"
+              ]
+            },
+            {
+              "Tappa23- Pontremoli - Aulla": [
+                "Pontremoli",
+                "Filattiera",
+                "Filetto",
+                "Villafranca",
+                "Virgoletta",
+                "Aulla"
+              ]
+            },
+            {
+              "Tappa24-Aulla - Avenza": [
+                "Aulla",
+                "Sarzana",
+                "Caniparola(Fosdinovo)"
+              ]
+            },
+            {
+              "Tappa25-Avenza - Pietrasanta ": [
+                "Avenza",
+                "Massa",
+                "Pietrasanta"
+              ]
+            },
+            {
+              "Tappa26-Pietrasanta - Lucca ": [
+                "Pietrasanta",
+                "Camaiore",
+                "Badia(Altopascio)",
+                "Montemagno(Calci)",
+                "Lucca"
+              ]
+            },
+            {
+              "Tappa27-Lucca - Altopascio ": [
+                "Lucca",
+                "Capannori",
+                "Badia Pozzeveri",
+                "Altopascio"
+              ]
+            },
+            {
+              "Tappa28- Altopascio - San Miniato": [
+                "Altopascio",
+                "Ponte a Cappiano (Fucecchio)",
+                "Fucecchio",
+                "San Miniato"
+              ]
+            },
+            {
+              "Tappa29- San Miniato - Gambassi Terme": [
+                "San Miniato",
+                "Coiano(Castelfiorentino)",
+                "Chianni(Gambassi Terme)",
+                "Gambassi Terme"
+              ]
+            },
+            {
+              "Tappa30- Gambassi Terme - San Gimignano ": [
+                "Gambassi Terme",
+                "Pancole(San Gimignano)",
+                "Cellole (San Gimignano)",
+                "San Gimignano"
+              ]
+            },
+            {
+              "Tappa31- San Gimignano - Monteriggioni": [
+                "San Gimignano",
+                "Aiano (San Gimignano)",
+                "Gracciano (Colle Val d'Elsa",
+                "Strove(Monteriggioni)",
+                "Abbadia a Isola(Monteriggioni)",
+                "Monteriggioni"
+              ]
+            },
+            {
+              "Tappa32- Monteriggioni - Siena": [
+                "Monteriggioni",
+                "Cerbaia (San Casciano in Val di Pesa",
+                "Siena"
+              ]
+            },
+            {
+              "Tappa33- Siena - Ponte d’Arbia": [
+                "Siena",
+                "Ponte d’Arbia"
+              ]
+            },
+            {
+              "Tappa34- Ponte d’Arbia - San Quirico d'Orcia": [
+                "Ponte d’Arbia",
+                "Buonconvento",
+                "Torrenieri",
+                "San Quirico d'Orcia"
+              ]
+            },
+            {
+              "Tappa35- San Quirico - Radicofani": [
+                "San Quirico",
+                "Vignoni Alto",
+                "Bagno Vignoni",
+                "Gallina",
+                "Radicofani"
+              ]
+            },
+            {
+              "Tappa36- Radicofani - Aquapendente": [
+                "Radicofani",
+                "Ponte a Rigo (San Casciano)",
+                "Proceno",
+                "Acquapendente (Lazio)"
+              ]
+            }
+          ]
+        },
+        "Valle d'Aosta"
+      ]
+    }
+  ]
+}
