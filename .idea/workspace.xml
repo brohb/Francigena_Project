@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.js" line="247" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42cd748b-649b-4ea6-a7dd-ffefd38fcfa4" name="Default Changelist" comment="" />
+    <list default="true" id="42cd748b-649b-4ea6-a7dd-ffefd38fcfa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/low_cost_hotels.json" beforeDir="false" afterPath="$PROJECT_DIR$/low_cost_hotels.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="199" column="53" selection-start-line="199" selection-start-column="53" selection-end-line="199" selection-end-column="53" />
+            <state relative-caret-position="497">
+              <caret line="159" column="144" lean-forward="true" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="144" />
               <folding>
                 <element signature="e#43#302#0" />
                 <element signature="e#56#298#0" />
@@ -101,13 +103,71 @@
                 <element signature="n#!!block;n#hide2AndHideTutto#0" />
                 <element signature="n#!!block;n#validateCitta#0" />
                 <element signature="e#1060#1127#0" />
+                <element signature="e#1178#5180#0" />
+                <element signature="e#1263#5131#0" />
                 <element signature="e#1477#1593#0" />
+                <element signature="e#1633#4799#0" />
+                <element signature="e#1783#4494#0" />
+                <element signature="e#1934#4454#0" />
+                <element signature="e#2150#4406#0" />
+                <element signature="e#2408#3544#0" />
+                <element signature="e#2488#2499#0" />
+                <element signature="e#3601#4380#0" />
+                <element signature="e#4542#4793#0" />
+                <element signature="e#4629#4679#0" />
+                <element signature="e#4859#5022#0" />
+                <element signature="e#5060#5125#0" />
+                <element signature="e#5843#5916#0" />
+                <element signature="e#5956#8598#0" />
+                <element signature="e#6180#8417#0" />
+                <element signature="e#6400#8399#0" />
+                <element signature="e#6563#8377#0" />
+                <element signature="e#7043#7854#0" />
+                <element signature="e#7915#8319#0" />
+                <element signature="e#8465#8584#0" />
+                <element signature="e#8662#8844#0" />
+                <element signature="e#8881#8955#0" />
+                <element signature="e#9084#10560#0" />
+                <element signature="e#9097#10556#0" />
+                <element signature="e#9384#10548#0" />
+                <element signature="e#9637#10102#0" />
+                <element signature="e#9867#10088#0" />
+                <element signature="e#10162#10487#0" />
+                <element signature="e#10605#10966#0" />
+                <element signature="e#10619#10963#0" />
+                <element signature="e#10740#10892#0" />
+                <element signature="e#10922#10957#0" />
+                <element signature="e#11002#12025#0" />
+                <element signature="e#11015#12021#0" />
+                <element signature="e#11404#12015#0" />
+                <element signature="e#11553#11937#0" />
+                <element signature="e#12062#13406#0" />
+                <element signature="e#12077#13401#0" />
+                <element signature="e#12285#13174#0" />
+                <element signature="e#12397#12971#0" />
+                <element signature="e#12514#12957#0" />
+                <element signature="e#13233#13395#0" />
                 <element signature="n#!!block;n#initMaps#0" />
+                <element signature="e#13550#13680#0" />
+                <element signature="e#13770#14045#0" />
+                <element signature="e#14047#14227#0" />
                 <element signature="n#!!block;n#showTrenitaliaInfo#0" />
                 <element signature="n#!!block;n#main#0" />
+                <element signature="e#15008#15174#0" />
+                <element signature="e#15096#15168#0" />
+                <element signature="e#15238#15348#0" />
+                <element signature="e#15268#15342#0" />
+                <element signature="e#15491#15512#0" />
+                <element signature="e#15657#15911#0" />
+                <element signature="e#15913#16033#0" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -200,11 +260,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/low_cost_hotels.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16794">
-              <caret line="631" column="4" selection-start-line="631" selection-start-column="4" selection-end-line="631" selection-end-column="4" />
+            <state relative-caret-position="729">
+              <caret line="96" column="41" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
               <folding>
                 <element signature="e#43#360#0" />
               </folding>
@@ -256,6 +316,9 @@
       <find>sarzana</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -301,6 +364,7 @@
     <option name="width" value="951" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -309,6 +373,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;CSS&#10;JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/it.js" />
@@ -377,10 +442,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367775000" />
+    <option name="totallyTimeSpent" value="368624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.015991472" />
@@ -2583,20 +2648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/low_cost_hotels.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16794">
-          <caret line="631" column="4" selection-start-line="631" selection-start-column="4" selection-end-line="631" selection-end-column="4" />
-          <folding>
-            <element signature="e#43#360#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="199" column="53" selection-start-line="199" selection-start-column="53" selection-end-line="199" selection-end-column="53" />
+        <state relative-caret-position="497">
+          <caret line="159" column="144" lean-forward="true" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="144" />
           <folding>
             <element signature="e#43#302#0" />
             <element signature="e#56#298#0" />
@@ -2606,10 +2661,73 @@
             <element signature="n#!!block;n#hide2AndHideTutto#0" />
             <element signature="n#!!block;n#validateCitta#0" />
             <element signature="e#1060#1127#0" />
+            <element signature="e#1178#5180#0" />
+            <element signature="e#1263#5131#0" />
             <element signature="e#1477#1593#0" />
+            <element signature="e#1633#4799#0" />
+            <element signature="e#1783#4494#0" />
+            <element signature="e#1934#4454#0" />
+            <element signature="e#2150#4406#0" />
+            <element signature="e#2408#3544#0" />
+            <element signature="e#2488#2499#0" />
+            <element signature="e#3601#4380#0" />
+            <element signature="e#4542#4793#0" />
+            <element signature="e#4629#4679#0" />
+            <element signature="e#4859#5022#0" />
+            <element signature="e#5060#5125#0" />
+            <element signature="e#5843#5916#0" />
+            <element signature="e#5956#8598#0" />
+            <element signature="e#6180#8417#0" />
+            <element signature="e#6400#8399#0" />
+            <element signature="e#6563#8377#0" />
+            <element signature="e#7043#7854#0" />
+            <element signature="e#7915#8319#0" />
+            <element signature="e#8465#8584#0" />
+            <element signature="e#8662#8844#0" />
+            <element signature="e#8881#8955#0" />
+            <element signature="e#9084#10560#0" />
+            <element signature="e#9097#10556#0" />
+            <element signature="e#9384#10548#0" />
+            <element signature="e#9637#10102#0" />
+            <element signature="e#9867#10088#0" />
+            <element signature="e#10162#10487#0" />
+            <element signature="e#10605#10966#0" />
+            <element signature="e#10619#10963#0" />
+            <element signature="e#10740#10892#0" />
+            <element signature="e#10922#10957#0" />
+            <element signature="e#11002#12025#0" />
+            <element signature="e#11015#12021#0" />
+            <element signature="e#11404#12015#0" />
+            <element signature="e#11553#11937#0" />
+            <element signature="e#12062#13406#0" />
+            <element signature="e#12077#13401#0" />
+            <element signature="e#12285#13174#0" />
+            <element signature="e#12397#12971#0" />
+            <element signature="e#12514#12957#0" />
+            <element signature="e#13233#13395#0" />
             <element signature="n#!!block;n#initMaps#0" />
+            <element signature="e#13550#13680#0" />
+            <element signature="e#13770#14045#0" />
+            <element signature="e#14047#14227#0" />
             <element signature="n#!!block;n#showTrenitaliaInfo#0" />
             <element signature="n#!!block;n#main#0" />
+            <element signature="e#15008#15174#0" />
+            <element signature="e#15096#15168#0" />
+            <element signature="e#15238#15348#0" />
+            <element signature="e#15268#15342#0" />
+            <element signature="e#15491#15512#0" />
+            <element signature="e#15657#15911#0" />
+            <element signature="e#15913#16033#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/low_cost_hotels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="96" column="41" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
+          <folding>
+            <element signature="e#43#360#0" />
           </folding>
         </state>
       </provider>
