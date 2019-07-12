@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.js" line="247" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42cd748b-649b-4ea6-a7dd-ffefd38fcfa4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/low_cost_hotels.json" beforeDir="false" afterPath="$PROJECT_DIR$/low_cost_hotels.json" afterDir="false" />
-    </list>
+    <list default="true" id="42cd748b-649b-4ea6-a7dd-ffefd38fcfa4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2349">
+            <state>
               <caret line="278" column="23" selection-start-line="278" selection-start-column="23" selection-end-line="278" selection-end-column="23" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -166,11 +164,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/it.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -260,13 +253,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/low_cost_hotels.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
               <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
               <folding>
                 <element signature="e#43#360#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="2765" column="10" lean-forward="true" selection-start-line="2765" selection-start-column="10" selection-end-line="2765" selection-end-column="10" />
+              <folding>
+                <element signature="n#project#0;n#!!top" />
+                <element signature="n#component#0;n#project#0;n#!!top" />
+                <element signature="n#component#1;n#project#0;n#!!top" />
+                <element signature="n#component#2;n#project#0;n#!!top" />
+                <element signature="n#execution#0;n#component#2;n#project#0;n#!!top" />
+                <element signature="n#component#3;n#project#0;n#!!top" />
+                <element signature="n#option#7;n#component#3;n#project#0;n#!!top" />
+                <element signature="n#component#4;n#project#0;n#!!top" />
+                <element signature="n#leaf#0;n#component#4;n#project#0;n#!!top" />
+                <element signature="n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+                <element signature="n#entry#0;n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+                <element signature="n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+                <element signature="e#17390#17396#0" expanded="true" />
+                <element signature="e#17398#17404#0" expanded="true" />
+                <element signature="n#component#22;n#project#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -442,7 +461,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368898000" />
+    <option name="totallyTimeSpent" value="370236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -505,31 +524,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../01_pagina_di_ricerca/4_giugno/19_col_json.js" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.es6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2036">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-          <folding>
-            <element signature="e#58#317#0" />
-            <element signature="e#716#824#0" />
-            <element signature="e#1292#2551#0" />
-            <element signature="n#!!block;n#validateRegione#0" />
-            <element signature="e#3591#4303#0" />
-            <element signature="e#3769#4297#0" />
-            <element signature="e#5685#6665#0" />
-            <element signature="e#5699#6660#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PORCO_TREQQUA.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -2517,7 +2511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2349">
+        <state>
           <caret line="278" column="23" selection-start-line="278" selection-start-column="23" selection-end-line="278" selection-end-column="23" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -2722,12 +2716,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/low_cost_hotels.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
           <folding>
             <element signature="e#43#360#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2765" column="10" lean-forward="true" selection-start-line="2765" selection-start-column="10" selection-end-line="2765" selection-end-column="10" />
+          <folding>
+            <element signature="n#project#0;n#!!top" />
+            <element signature="n#component#0;n#project#0;n#!!top" />
+            <element signature="n#component#1;n#project#0;n#!!top" />
+            <element signature="n#component#2;n#project#0;n#!!top" />
+            <element signature="n#execution#0;n#component#2;n#project#0;n#!!top" />
+            <element signature="n#component#3;n#project#0;n#!!top" />
+            <element signature="n#option#7;n#component#3;n#project#0;n#!!top" />
+            <element signature="n#component#4;n#project#0;n#!!top" />
+            <element signature="n#leaf#0;n#component#4;n#project#0;n#!!top" />
+            <element signature="n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+            <element signature="n#entry#0;n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+            <element signature="n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#4;n#project#0;n#!!top" />
+            <element signature="e#17390#17396#0" expanded="true" />
+            <element signature="e#17398#17404#0" expanded="true" />
+            <element signature="n#component#22;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
